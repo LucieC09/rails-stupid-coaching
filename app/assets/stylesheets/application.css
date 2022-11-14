@@ -13,10 +13,3 @@
  *= require_tree .
  *= require_self
  */
-
- .h1 {
-  font-size: medium;
-  color: #cdb4db;
- }
-
- /* <div class="text-bg-light p-3">Light with contrasting color</div> */
